@@ -1,0 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto|Ubuntu&display=swap);
+body {
+    /*background-color: #16CC5F;*/
+    background-image: linear-gradient(#16CC5F, #0E803B);
+    min-height: 100vh;
+    font-family: 'Ubuntu', 'Roboto', serif;
+}
+
